@@ -6,7 +6,7 @@ Repository on standard objects and utility functions for standardizing tests in 
 
 # Blog Post
 
-Please visit [Salesforce Test Data Factories](https://www.google.com) blog post for a deeper explanation of this repo.
+Please visit [Salesforce Test Data Factories](https://chicagocloudgroup.com/test-data-factory/) blog post for a deeper explanation of this repo.
 
 Please feel free to fork and/or download this repo for your own uses.
 
